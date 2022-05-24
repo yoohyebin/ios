@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F4A6837D-1146-4B85-BD15-0828CD20DCA0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F3B699A-ECE1-4727-8EB6-1FD434E42D46"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diary/DiaryDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "DiaryDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1F3B699A-ECE1-4727-8EB6-1FD434E42D46 - e6916516d57a1049"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diary.DiaryDetailViewController.dateLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Diary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoohyebin/Desktop/xcode/Diary/Diary/DiaryDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1F3B699A-ECE1-4727-8EB6-1FD434E42D46 - 910d33c964437c5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diary.DiaryDetailViewController.dateLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Diary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoohyebin/Desktop/xcode/Diary/Diary/DiaryDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "1F3B699A-ECE1-4727-8EB6-1FD434E42D46 - 8d156debdb7b3905"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diary.DiaryDetailViewController.dateLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Diary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoohyebin/Desktop/xcode/Diary/Diary/DiaryDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "1F3B699A-ECE1-4727-8EB6-1FD434E42D46 - 497f761476bfb302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diary.DiaryDetailViewController.dateLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Diary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoohyebin/Desktop/xcode/Diary/Diary/DiaryDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "1F3B699A-ECE1-4727-8EB6-1FD434E42D46 - 1da4ef40f80846d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diary.DiaryDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Diary.DiaryDetailViewController"
+                  moduleName = "Diary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoohyebin/Desktop/xcode/Diary/Diary/DiaryDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "1F3B699A-ECE1-4727-8EB6-1FD434E42D46 - 1b4032dcf34f29ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Diary.DiaryDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Diary.DiaryDetailViewController&gt;"
+                  moduleName = "Diary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoohyebin/Desktop/xcode/Diary/Diary/DiaryDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7DC797D-50B4-4D47-A332-49F058CDDEBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Diary/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "editDiaryNotification(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

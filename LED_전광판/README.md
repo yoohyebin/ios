@@ -12,7 +12,10 @@ LED 전광판 앱 만들기
 
 * 화면 전환
    *  View Controller 의 View 위에 다른 View를 가져와 바꿔치기 
-      * 메모리 누수     
+      * 메모리 누수 위험으로 사용하지 않음  
    *  View Controller에서 다른 View Controller 를 호출하여 전환하기 
+      * present method 파라미터에 이동하려는 view controller 인스턴스를 넘겨 화면 전환  
    *  Navigation Controller 를 사용하여 화면 전환하기
+      *  navigation controller에서 push method 파라미터에 이동하려는 view controller 인스턴스를 넘겨 화면 전환  
    *  화면 전환용 객체 세그웨이(Segueway) 를 사용하여 화면 전환하기
+      *  스토리보드에서 view controller Scene 들 끼리 세그웨이 객체를 연결시켜 코드 없이 화면 전환

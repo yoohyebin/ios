@@ -21,7 +21,7 @@ LED 전광판 앱 만들기
       *  스토리보드에서 view controller Scene 들 끼리 세그웨이 객체를 연결시켜 코드 없이 화면 전환
 
 * UIViewController LifeCycle
-   *  ![image](https://user-images.githubusercontent.com/55949986/170435366-fbb03f43-d9b9-4c24-a166-3a2089b58432.png)
+     ![image](https://user-images.githubusercontent.com/55949986/170435366-fbb03f43-d9b9-4c24-a166-3a2089b58432.png)
    *  loadView
       *  화면에 띄워줄 view를 만드는 메소드, view를 만들고 메모리에 올림 
       *  직접 호출 하면 안됨, 모두 직접적으로 코딩하여 만드는 경우를 제외하고서는 override 하지 않는게 좋음
@@ -46,9 +46,8 @@ LED 전광판 앱 만들기
    *  프로퍼티에 직접 접근하여 데이터 전달하기
       *  instantiateViewController 메소드를 이용하여 뷰 컨트롤러가 인스턴스화 되면 프로퍼티에 접근하여 데이터 전달
       *  push, present 방식으로 화면 전환한 경우에만 사용
-   *  VC 함수를 이용하여 데이터 전달하기
-      *      ㅇㄹㄴㅇ
    *  세그웨이로 구현된 화면 전환 방법에서 데이터 전달하기
       *  prepare method를 override 하여 메서드 안에서 전환하려는 뷰 인스턴스를 가져오고, 프로퍼티에 접근하여 데이터 전달
-      *  ViewController 끼리 강하게 
-   *  Delegate 패턴을 이용하여 이전 화면으로 데이터 전달하기  
+      *  ViewController 끼리 강하게 결합되어 많은 수정이 필요할 수 있음
+   *  Delegate 패턴을 이용하여 이전 화면으로 데이터 전달하기 
+      *  ViewController 끼리 서로 의존하지 않고 떨어져 있는 구조 유지

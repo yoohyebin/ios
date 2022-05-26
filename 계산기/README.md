@@ -1,4 +1,4 @@
-LED 전광판 앱 만들기
+계산기 앱 만들기
 ===========
 ![LED 전광판](https://user-images.githubusercontent.com/55949986/170426368-c2690e18-f01e-4b68-b62b-5da2b6c139ec.gif)
 

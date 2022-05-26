@@ -12,6 +12,7 @@ LED 전광판 앱 만들기
 
 * 화면 전환
    *  View Controller 의 View 위에 다른 View를 가져와 바꿔치기 
+      * 메모리 누수     
    *  View Controller에서 다른 View Controller 를 호출하여 전환하기 
    *  Navigation Controller 를 사용하여 화면 전환하기
    *  화면 전환용 객체 세그웨이(Segueway) 를 사용하여 화면 전환하기

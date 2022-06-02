@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>295328255794-mq3604ag0cec36l6cv464pgboqlffdoc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.295328255794-mq3604ag0cec36l6cv464pgboqlffdoc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0X1eH7JDy2CKjble0q9mTnYKOq4jq3Vg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>295328255794</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kr.co.hyebin.CreditCardList</string>
+	<key>PROJECT_ID</key>
+	<string>creditcard-li</string>
+	<key>STORAGE_BUCKET</key>
+	<string>creditcard-li.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:295328255794:ios:a6aad9f4ff1df59dc9112b</string>
+	<key>DATABASE_URL</key>
+	<string>https://creditcard-li-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -45,7 +45,7 @@ class ViewController: UIViewController {
     }
     
     func getCurrentWeather(cityName: String){
-        guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather?q=\(cityName)&appid=38a9de7ed9da10ca8adc65aef260fc29") else {return}
+        guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather?q=\(cityName)&appid="appid"") else {return}
         let session = URLSession(configuration: .default)
         session.dataTask(with: url){ [weak self] data, response, error in
             let successRange = (200..<300)
